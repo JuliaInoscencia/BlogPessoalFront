@@ -6,15 +6,16 @@ import { AppComponent } from './app.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
-import { LoginComponent } from './login/login.component';
+import { EntrarComponent } from './entrar/entrar.component';
 import { CadastroComponent } from './cadastro/cadastro.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuComponent,
     RodapeComponent,
-    LoginComponent,
+    EntrarComponent,
     CadastroComponent
   ],
   imports: [
