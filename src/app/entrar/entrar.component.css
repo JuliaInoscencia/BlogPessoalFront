@@ -1,7 +1,11 @@
 #img-bg{
-    background-image: url('../../assets/img/estudos.gif');
+    background-image: url('../../assets/img/Studying.gif');
     min-height: 695px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
 }
